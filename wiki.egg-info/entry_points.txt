@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = wiki:main
+      [console_scripts]
+      initialize_wiki_db = wiki.scripts.initializedb:main
+      
